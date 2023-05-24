@@ -1,0 +1,593 @@
+N, 10, data len (byte), 1408
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare storage, 0.009967564
+[P] Create pospace, 0.38586235
+[V] Create challenges, 0.000184294
+[P] --Response 1 (return index and hash), 0.001282829
+[P] --Response 2 (create proof), 54.70322
+[V] Verify, 0.027280385
+
+N, 20, data len (byte), 2752512
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare storage, 6.020695
+[P] Create pospace, 394.24338
+[V] Create challenges, 0.000343852
+[P] --Response 1 (return index and hash), 0.001322655
+[P] --Response 2 (create proof), 54.87678
+[V] Verify, 0.02804064
+
+N, 20, data len (byte), 2752512
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare storage, 6.0047035
+[P] Create pospace, 390.85266
+[V] Create challenges, 0.00035038
+[P] -- Response 1 (return index and hash), 0.001341697
+[P] -- Response 2 (create params), 29.190552
+[P] -- Response 2 (create proof), 26.268263
+[V] Verify, 0.028094104
+
+data len (byte), 2752512
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare storage, 5.994369
+[P] Create pospace, 393.0187
+[V] Create challenges, 0.000333118
+[P] -- Response 1 (return index and hash), 0.001332158
+[P] -- Response 2 (create params), 29.191624
+[P] -- Response 2 (create proof), 26.250832
+[V] Verify, 0.028735653
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.572811
+[P] Create pospace, 370.17395
+[V] Create challenges, 0.001648498
+[P] -- Response 1 (return index and hash), 0.006342818
+[P] -- Response 2 (create params), 120.21771
+[P] -- Response 2 (create proof), 94.960754
+[V] Verify, 0.03740479
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.6643727
+[P] Create pospace, 362.04187
+[V] Create challenges, 0.001608584
+[P] -- Response 1 (return index and hash), 0.006379204
+[P] -- Response 2 (create params), 120.42256
+[P] -- Response 2 (create proof), 95.26683
+[V] Verify, 0.037507113
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.508652
+[P] Create pospace, 371.16992
+[V] Create challenges, 0.001612935
+[P] -- Response 1 (return index and hash), 0.006295551
+[P] -- Response 2 (create params), 120.24128
+[P] -- Response 2 (create proof), 95.75434
+[V] Verify, 0.036194656
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.7905796
+[P] Create pospace, 367.29785
+[V] Create challenges, 0.001575601
+[P] -- Response 1 (return index and hash), 0.006429193
+[P] -- Response 2 (create params), 120.35707
+[P] -- Response 2 (create proof), 95.906395
+[V] Verify, 0.040458456
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.5533829
+[P] Create pospace, 368.42764
+[V] Create challenges, 0.00160662
+[P] -- Response 1 (return index and hash), 0.00645823
+[P] -- Response 2 (create params), 120.24808
+[P] -- Response 2 (create proof), 95.00801
+[V] Verify, 0.036054306
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.548017
+[P] Create pospace, 369.31323
+[V] Create challenges, 0.001640003
+[P] -- Response 1 (return index and hash), 0.006416555
+[P] -- Response 2 (create params), 120.26685
+[P] -- Response 2 (create proof), 96.48012
+[V] Verify, 0.036544334
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.532506
+[P] Create pospace, 369.04065
+[V] Create challenges, 0.001538676
+[P] -- Response 1 (return index and hash), 0.006380709
+[P] -- Response 2 (create params), 118.08364
+[P] -- Response 2 (create proof), 93.14386
+[V] Verify, 0.03572297
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.4460392
+[P] Create pospace, 362.06024
+[V] Create challenges, 0.001591881
+[P] -- Response 1 (return index and hash), 0.006415896
+[P] -- Response 2 (create params), 118.361465
+[P] -- Response 2 (create proof), 95.05887
+[V] Verify, 0.035246707
+
+N, 20, data len (byte), 2752512
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.4689999
+[P] Create pospace, 359.75305
+[V] Create challenges, 0.001632538
+[P] -- Response 1 (return index and hash), 0.006311934
+[P] -- Response 2 (create params), 120.1712
+[P] -- Response 2 (create proof), 95.23214
+[V] Verify, 0.03645091
+
+N, 20, data len (byte), 2752512, vde, 322
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 3.513804
+[P] Create pospace, 364.4195
+[V] Create challenges, 0.001620183
+[P] -- Response 1 (return index and hash), 0.006465483
+[P] -- Response 2 (create params), 120.79217
+[P] -- Response 2 (create proof), 96.081566
+[V] Verify, 0.036148097
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 6326.406
+[P] Create pospace, 58341.87
+[V] Create challenges, 0.005054568
+[P] -- Response 1 (return index and hash), 0.001583545
+[P] -- Response 2 (create params), 11.235585
+[P] -- Response 2 (create proof), 7.9300475
+[V] Verify, 0.03653481
+
+N, 20, data len (byte), 2752512, vde round, 322
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 4.84235
+[P] Create pospace, 418.263
+df cost: 383.15555
+file cost: 16.879246
+[V] Create challenges, 0.000220044
+[P] -- Response 1 (return index and hash), 0.00069778
+[P] -- Response 2 (create params), 20.550505
+[P] -- Response 2 (create proof), 16.463278
+[V] Verify, 0.031190524
+
+N, 20, data len (byte), 2752512, vde round, 322
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 4.7207847
+[P] Create pospace, 425.22165
+df cost: 389.68054
+file cost: 16.76927
+[V] Create challenges, 0.000199931
+[P] -- Response 1 (return index and hash), 0.000740183
+[P] -- Response 2 (create params), 20.94918
+[P] -- Response 2 (create proof), 17.300451
+[V] Verify, 0.0312562
+
+N, 20, data len (byte), 2752512, vde round, 322
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 4.8080864
+[P] Create pospace, 454.21484
+df cost: 417.1039
+file cost: 17.217348
+[V] Create challenges, 0.000213363
+[P] -- Response 1 (return index and hash), 0.000691949
+[P] -- Response 2 (create params), 19.666304
+[P] -- Response 2 (create proof), 18.4385
+[V] Verify, 0.03199164
+
+N, 20, data len (byte), 2752512, vde round, 322
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 5.1712403
+[P] Create pospace, 461.05502
+df cost: 422.28275
+file cost: 17.933716
+[V] Create challenges, 0.000218728
+[P] -- Response 1 (return index and hash), 0.000665395
+[P] -- Response 2 (create params), 19.303171
+[P] -- Response 2 (create proof), 16.55022
+[V] Verify, 0.031027356
+
+N, 20, data len (byte), 2752512, vde round, 322
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 4.8362093
+[P] Create pospace, 428.3816
+df cost: 392.79163
+file cost: 16.727638
+[V] Create challenges, 0.000200835
+[P] -- Response 1 (return index and hash), 0.000708404
+[P] -- Response 2 (create params), 17.96279
+[P] -- Response 2 (create proof), 16.257404
+[V] Verify, 0.029719155
+
+N, 25, data len (byte), 109051904, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 199.29239
+[P] Create pospace, 1600.7373
+df cost, 518.62866, file cost, 73.708305
+[V] Create challenges, 0.000269555
+[P] -- Response 1 (return index and hash), 0.000768472
+[P] -- Response 2 (create params), 10.598511
+[P] -- Response 2 (create proof), 7.670117
+[V] Verify, 0.03713943
+
+N, 25, data len (byte), 109051904, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare storage, 203.6707
+[P] Create pospace, 1588.0615
+df cost, 515.31586, file cost, 73.899704
+[V] Create challenges, 0.000354975
+[P] -- Response 1 (return index and hash), 0.001066857
+[P] -- Response 2 (create params), 11.03232
+[P] -- Response 2 (create proof), 7.8943686
+[V] Verify, 0.030063456
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 7993.1675
+[P] Create pospace, 58983.56
+df cost, 1115.0574, file cost, 394.3856
+[V] Create challenges, 0.002619576
+[P] -- Response 1 (return index and hash), 0.007260722
+[P] -- Response 2 (create params), 104.28912
+[P] -- Response 2 (create proof), 81.00781
+[V] Verify, 0.06508782
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 9485.106
+[P] Create pospace, 60887.902
+df cost, 1116.4089, file cost, 357.41934
+[V] Create challenges, 0.002661508
+[P] -- Response 1 (return index and hash), 0.007732805
+[P] -- Response 2 (create params), 109.96769
+[P] -- Response 2 (create proof), 80.46753
+[V] Verify, 0.07665567
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 7724.169
+[P] Create pospace, 61063.336
+df cost, 1130.7385, file cost, 322.53494
+[V] Create challenges, 0.003405199
+[P] -- Response 1 (return index and hash), 0.010523597
+[P] -- Response 2 (create params), 108.615486
+[P] -- Response 2 (create proof), 79.85659
+[V] Verify, 0.043784037
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 7052.3413
+[P] Create pospace, 64870.84
+df cost, 1357.3256, file cost, 692.0421
+[V] Create challenges, 0.01198366
+[P] -- Response 1 (return index and hash), 0.011397322
+[P] -- Response 2 (create params), 104.786125
+[P] -- Response 2 (create proof), 77.584816
+[V] Verify, 0.064557105
+
+N, 30, data len (byte), 4160749568, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare storage, 8928.8545
+[P] Create pospace, 68123.61
+df cost, 1414.5171, file cost, 1770.5988
+[V] Create challenges, 0.010216048
+[P] -- Response 1 (return index and hash), 0.01147804
+[P] -- Response 2 (create params), 116.08737
+[P] -- Response 2 (create proof), 79.044106
+[V] Verify, 0.044094928
+
+N, 10, data len (byte), 1408, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 0.008392716
+[P] Mark space, 0.037447058
+df cost, 0.015517879, file cost, 0.007688574
+[V] Create challenges, 0.00014623
+[P] -- Response 1 (return index and hash), 0.000957995
+[P] -- Response 2 (create params), 11.641049
+[P] -- Response 2 (create proof), 8.633333
+[V] Verify, 0.02826202
+
+N, 10, data len (byte), 1408, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 0.002518819
+[P] Mark space, 0.03203108
+df cost, 0.013551182, file cost, 0.0062236227
+[V] Create challenges, 0.000104557
+[P] -- Response 1 (return index and hash), 0.000619724
+[P] -- Response 2 (create params), 11.637948
+[P] -- Response 2 (create proof), 8.412522
+[V] Verify, 0.043037444
+
+N, 10, data len (byte), 1408, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 0.003886375
+[P] Mark space, 0.05056044
+df cost, 0.020931834, file cost, 0.009585307
+[V] Create challenges, 0.000121529
+[P] -- Response 1 (return index and hash), 0.000941118
+[P] -- Response 2 (create params), 11.454003
+[P] -- Response 2 (create proof), 8.454297
+[V] Verify, 0.043135636
+
+N, 10, data len (byte), 1408, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 0.003927717
+[P] Mark space, 0.041453294
+df cost, 0.017224265, file cost, 0.008066647
+[V] Create challenges, 0.000113845
+[P] -- Response 1 (return index and hash), 0.000617502
+[P] -- Response 2 (create params), 11.349248
+[P] -- Response 2 (create proof), 8.4063425
+[V] Verify, 0.028570663
+
+N, 10, data len (byte), 1408, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 0.002567843
+[P] Mark space, 0.032423574
+df cost, 0.013508126, file cost, 0.0066472166
+[V] Create challenges, 0.000104865
+[P] -- Response 1 (return index and hash), 0.000622581
+[P] -- Response 2 (create params), 11.349312
+[P] -- Response 2 (create proof), 8.379937
+[V] Verify, 0.04299828
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 5.7264824
+[P] Mark space, 46.909367
+df cost, 18.041302, file cost, 11.136467
+[V] Create challenges, 0.000208544
+[P] -- Response 1 (return index and hash), 0.000713678
+[P] -- Response 2 (create params), 11.1094
+[P] -- Response 2 (create proof), 7.933797
+[V] Verify, 0.029328937
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 5.6443124
+[P] Mark space, 46.474236
+df cost, 18.007797, file cost, 10.626174
+[V] Create challenges, 0.00027813
+[P] -- Response 1 (return index and hash), 0.001051008
+[P] -- Response 2 (create params), 10.914982
+[P] -- Response 2 (create proof), 7.997448
+[V] Verify, 0.031097673
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 5.6945224
+[P] Mark space, 53.615585
+df cost, 20.627686, file cost, 11.944845
+[V] Create challenges, 0.000285241
+[P] -- Response 1 (return index and hash), 0.001019198
+[P] -- Response 2 (create params), 10.636992
+[P] -- Response 2 (create proof), 7.996874
+[V] Verify, 0.027946338
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 3.8078325
+[P] Mark space, 43.492573
+df cost, 17.325468, file cost, 8.374821
+[V] Create challenges, 0.000815908
+[P] -- Response 1 (return index and hash), 0.003166764
+[P] -- Response 2 (create params), 43.54951
+[P] -- Response 2 (create proof), 34.00429
+[V] Verify, 0.03133814
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.0544043
+[P] Mark space, 43.757786
+df cost, 17.463657, file cost, 8.3389635
+[V] Create challenges, 0.000786351
+[P] -- Response 1 (return index and hash), 0.003303493
+[P] -- Response 2 (create params), 42.218094
+[P] -- Response 2 (create proof), 34.31433
+[V] Verify, 0.042755146
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.092625
+[P] Mark space, 44.36203
+df cost, 18.00509, file cost, 7.9713016
+[V] Create challenges, 0.000826332
+[P] -- Response 1 (return index and hash), 0.003177957
+[P] -- Response 2 (create params), 41.011448
+[P] -- Response 2 (create proof), 32.44778
+[V] Verify, 0.03663533
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 4.188903
+[P] Mark space, 43.887783
+df cost, 17.874006, file cost, 7.860307
+[V] Create challenges, 0.000230881
+[P] -- Response 1 (return index and hash), 0.000671594
+[P] -- Response 2 (create params), 10.694031
+[P] -- Response 2 (create proof), 7.7403727
+[V] Verify, 0.03065251
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 4.080981
+[P] Mark space, 43.92277
+df cost, 17.910751, file cost, 7.7755957
+[V] Create challenges, 0.000220112
+[P] -- Response 1 (return index and hash), 0.000660202
+[P] -- Response 2 (create params), 10.817626
+[P] -- Response 2 (create proof), 7.8296595
+[V] Verify, 0.044444233
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 10, response count, 5, success rate, 5/5
+[P] Prepare space, 4.043456
+[P] Mark space, 44.09677
+df cost, 17.965546, file cost, 7.804685
+[V] Create challenges, 0.000292766
+[P] -- Response 1 (return index and hash), 0.001037278
+[P] -- Response 2 (create params), 10.56814
+[P] -- Response 2 (create proof), 7.8484383
+[V] Verify, 0.02765513
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare space, 4.080397
+[P] Mark space, 43.475513
+df cost, 17.784246, file cost, 7.7704034
+[V] Create challenges, 0.000518211
+[P] -- Response 1 (return index and hash), 0.002024558
+[P] -- Response 2 (create params), 20.067085
+[P] -- Response 2 (create proof), 14.390918
+[V] Verify, 0.028840404
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare space, 4.0764604
+[P] Mark space, 43.766106
+df cost, 17.853277, file cost, 7.671373
+[V] Create challenges, 0.000357745
+[P] -- Response 1 (return index and hash), 0.001276932
+[P] -- Response 2 (create params), 19.98975
+[P] -- Response 2 (create proof), 14.490712
+[V] Verify, 0.0456468
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 20, response count, 10, success rate, 10/10
+[P] Prepare space, 4.1150804
+[P] Mark space, 43.90854
+df cost, 17.939356, file cost, 7.7053847
+[V] Create challenges, 0.000354954
+[P] -- Response 1 (return index and hash), 0.001323938
+[P] -- Response 2 (create params), 20.143291
+[P] -- Response 2 (create proof), 14.51
+[V] Verify, 0.02894734
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.043115
+[P] Mark space, 43.699554
+df cost, 17.83268, file cost, 7.7979274
+[V] Create challenges, 0.001132198
+[P] -- Response 1 (return index and hash), 0.004972388
+[P] -- Response 2 (create params), 43.504486
+[P] -- Response 2 (create proof), 34.18169
+[V] Verify, 0.030921897
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.147411
+[P] Mark space, 44.334614
+df cost, 18.060928, file cost, 7.9027395
+[V] Create challenges, 0.000842369
+[P] -- Response 1 (return index and hash), 0.00310221
+[P] -- Response 2 (create params), 43.719578
+[P] -- Response 2 (create proof), 34.07406
+[V] Verify, 0.031249449
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.121134
+[P] Mark space, 44.259834
+df cost, 18.025831, file cost, 7.9000187
+[V] Create challenges, 0.000823185
+[P] -- Response 1 (return index and hash), 0.003160324
+[P] -- Response 2 (create params), 43.998756
+[P] -- Response 2 (create proof), 34.19887
+[V] Verify, 0.050103884
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.124905
+[P] Mark space, 43.784172
+df cost, 17.776382, file cost, 7.873027
+[V] Create challenges, 0.000810788
+[P] -- Response 1 (return index and hash), 0.003185545
+[P] -- Response 2 (create params), 43.110447
+[P] -- Response 2 (create proof), 33.032085
+[V] Verify, 0.03616177
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 50, response count, 25, success rate, 25/25
+[P] Prepare space, 4.078555
+[P] Mark space, 43.85485
+df cost, 17.792023, file cost, 7.882471
+[V] Create challenges, 0.00114068
+[P] -- Response 1 (return index and hash), 0.004998944
+[P] -- Response 2 (create params), 41.709846
+[P] -- Response 2 (create proof), 33.691875
+[V] Verify, 0.031237982
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 3.9256523
+[P] Mark space, 39.5698
+df cost, 15.897768, file cost, 7.7092805
+[V] Create challenges, 0.001596646
+[P] -- Response 1 (return index and hash), 0.0064516
+[P] -- Response 2 (create params), 75.87036
+[P] -- Response 2 (create proof), 49.07875
+[V] Verify, 0.038319513
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 3.6180525
+[P] Mark space, 46.307804
+df cost, 18.763777, file cost, 8.507318
+[V] Create challenges, 0.001752423
+[P] -- Response 1 (return index and hash), 0.007090895
+[P] -- Response 2 (create params), 72.700165
+[P] -- Response 2 (create proof), 48.035606
+[V] Verify, 0.036932748
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 3.57486
+[P] Mark space, 37.935276
+df cost, 15.203134, file cost, 7.272433
+[V] Create challenges, 0.00155609
+[P] -- Response 1 (return index and hash), 0.006515339
+[P] -- Response 2 (create params), 72.07706
+[P] -- Response 2 (create proof), 48.20881
+[V] Verify, 0.036636163
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 3.607605
+[P] Mark space, 38.209904
+df cost, 15.278549, file cost, 7.3747196
+[V] Create challenges, 0.001559219
+[P] -- Response 1 (return index and hash), 0.006218798
+[P] -- Response 2 (create params), 72.271675
+[P] -- Response 2 (create proof), 47.893784
+[V] Verify, 0.035945486
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 3.5909882
+[P] Mark space, 38.205864
+df cost, 15.333019, file cost, 7.3155303
+[V] Create challenges, 0.001588344
+[P] -- Response 1 (return index and hash), 0.00652001
+[P] -- Response 2 (create params), 72.449814
+[P] -- Response 2 (create proof), 48.16826
+[V] Verify, 0.03686161
+
+N, 20, data len (byte), 2752512, vde round, 10
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 4.831751
+[P] Mark space, 40.530697
+df cost, 15.857307, file cost, 8.910432
+[V] Create challenges, 0.00165533
+[P] -- Response 1 (return index and hash), 0.001298549
+[P] -- Response 2 (create params), 58.06026
+[P] -- Response 2 (create proof), 33.1508
+[V] Verify, 0.037883054
+
