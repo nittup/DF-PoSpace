@@ -591,3 +591,25 @@ df cost, 15.857307, file cost, 8.910432
 [P] -- Response 2 (create proof), 33.1508
 [V] Verify, 0.037883054
 
+N, 20, data len (byte), 2752512, vde round, 600
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 4.138982
+[P] Mark space, 737.7797
+df cost, 708.8219, file cost, 10.577672
+[V] Create challenges, 0.001728791
+[P] -- Response 1 (return index and hash), 0.001346234
+[P] -- Response 2 (create params), 188.70866
+[P] -- Response 2 (create proof), 167.62567
+[V] Verify, 0.04170044
+
+N, 20, data len (byte), 2752512, vde round, 600
+challenge count, 100, response count, 50, success rate, 50/50
+[P] Prepare space, 4.014103
+[P] Mark space, 739.6778
+df cost, 710.95917, file cost, 10.41159
+[V] Create challenges, 0.001761341
+[P] -- Response 1 (return index and hash), 0.00150225
+[P] -- Response 2 (create params), 188.61763
+[P] -- Response 2 (create proof), 167.57211
+[V] Verify, 0.04144883
+

@@ -101,7 +101,7 @@ pub fn test_pospace() {
     .open(save_path)
     .unwrap();
 
-    const SAMPLES: usize = 5;
+    const SAMPLES: usize = 2;
     for i in 0..SAMPLES {
         println!("Sample: {:?} ...", i);
         let (df_constants, hash_constants, key, m) = prepare_params();
